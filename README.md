@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ceojooyoung;
-- 👀 I’m interested in ... Interactive Storytelling and Film Making;
-- 🌱 I’m currently learning ... Visual Media Programming;
-- 💞️ I’m looking to collaborate on ... game company, movie production, where i can realize my imagination;
+- 👋 Hi, I’m @ceojooyoung
+- 👀 I’m interested in ... Interactive Storytelling and Film Making
+- 🌱 I’m currently learning ... Visual Media Programming
+- 💞️ I’m looking to collaborate on ... game company, movie production, where i can realize my imagination
 - 📫 How to reach me ... ceojooyoung@naver.com / jooyoung_1111(instagram) / https://blog.naver.com/ceojooyoung
 
 <!---
